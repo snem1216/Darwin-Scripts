@@ -6,4 +6,6 @@ All the commands are outlined in detail below.
 
 ## DarIConvert.sh - Darwin Icon Converter
 A bidirectional converter for PNG iconsets and icns files. 
-bash dariconvert.sh <file_to_convert>
+
+Usage:
+ `bash dariconvert.sh <file_to_convert>`
